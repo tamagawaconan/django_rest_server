@@ -1,4 +1,4 @@
 db.sqlite3
 *.pyc
 blog/migrations/
-blog_server/__pycache__/*.pyc
+blog_server/__pycache__/settings.cpython-37.pyc
